@@ -1,8 +1,8 @@
 ### <p align="center">Hi, i'm Vi 👋 </p>
 ##  <div align="center"> <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="250" height="100" /></div>
 
-- 🔭 Trabalhando no Projeto PROTON (Project Tracker, Organizer and Notifier)
-- 🌱 Atualmente estudando Javascript, Typescript, React e Node.js
+- 🔭 Trabalhando no Projeto Siaat - connect
+- 🌱 Atualmente estudando Javascript, Typescript, React e Nest JS
 - 👯 Colaborador do time MULAS (Manutenção Universitária de Laboratórios)
 - 📫 Contato: https://www.linkedin.com/in/vitor-faria-morais-330b19204/
 - 😄 Pronouns: it's a mystery....
