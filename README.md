@@ -1,8 +1,8 @@
 <img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/3daa3e2c-a2e3-47bb-923b-4c380655e3a9" />
 
 ## 🧠 About Me
-- Student in the **5th semester of Database Systems** at **FATEC - Prof. Jessen Vidal**
-- Data Analysis **Intern** at **Embraer**
+- Student in the **5th semester of Banco de Dados** at **FATEC - Prof. Jessen Vidal**
+- **Data Analysis Intern** at **Embraer**
 - 🔭 **Current project**: Full Stack Developer - [Neo Horizon](https://github.com/FatecNeoHorizon/API_5S)
 - 🌱 **Recent technologies**: _Power BI, React, Spring Boot, Python, Postgres_
 
