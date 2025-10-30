@@ -3,8 +3,8 @@
 ## 🧠 Sobre mim
 - Aluno do **5º período de Banco de Dados** na **FATEC - Prof. Jessen Vidal**
 - Estágio em **Análise de Dados** na **Embraer** 
-- 🔭 **Projeto atual**: Dev Full Stack - Grupo [Neo Horizon](https://github.com/FatecNeoHorizon/API_5S)
-- 🌱 **Tecnologias utilizadas recentes**: Power BI, React, Springboot, Python & Postgres
+- 🔭 **Projeto atual**: Dev Full Stack - [Neo Horizon](https://github.com/FatecNeoHorizon/API_5S)
+- 🌱 **Tecnologias utilizadas recentes**: _ Power BI, React, Springboot, Python & Postgres_
 
 ## 🚀 Últimos Projetos
 
@@ -12,7 +12,7 @@
 |----------|------------|-------------|
 | [Neo Horizon - Data Analysis](https://github.com/FatecNeoHorizon/API_5S) | Ferramenta para analise de Dados e controle de projetos | `React` `Pandas` `Python` `Docker` |
 | [Porygon 3 - Geo Processamento](https://github.com/PorygonAPI/Porygon3) | Ferramenta de geoprocessamento espacial de dados capturados por satélites | `Springboot` `Vue` `PostgreSQL` |
-| [Porygon 2- Webscraper](https://github.com/PorygonAPI/Porygon2?tab=readme-ov-file#pushpin-projeto-api) | Ferramenta de captura e armazenamento de notícias estratégicas e dados relevantes associados | `Java`, `Springboot`, `Jsoup`
+| [Porygon 2- Webscraper](https://github.com/PorygonAPI/Porygon2?tab=readme-ov-file#pushpin-projeto-api) | Ferramenta de captura e armazenamento de notícias estratégicas e dados relevantes associados | `Java` `Springboot` `Jsoup`
 
 ## 🛠️ Tecnologias 
 <p align="center">
