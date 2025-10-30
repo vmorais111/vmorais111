@@ -4,7 +4,7 @@
 - Aluno do **5º período de Banco de Dados** na **FATEC - Prof. Jessen Vidal**
 - Estágio em **Análise de Dados** na **Embraer** 
 - 🔭 **Projeto atual**: Dev Full Stack - [Neo Horizon](https://github.com/FatecNeoHorizon/API_5S)
-- 🌱 **Tecnologias utilizadas recentes**: _ Power BI, React, Springboot, Python & Postgres_
+- 🌱 **Tecnologias recentes**:  _Power BI, React, Springboot, Python, Postgres_
 
 ## 🚀 Últimos Projetos
 
