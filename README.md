@@ -11,8 +11,8 @@
 | Project | Description | Technologies |
 |----------|--------------|---------------|
 | [NeoHorizon - Data Analysis](https://github.com/FatecNeoHorizon/API_5S) | Data analysis and project management tool | `React` `Pandas` `Python` `Docker` |
-| [Porygon - Geoprocessing](https://github.com/PorygonAPI/Porygon3) | Spatial data processing tool for satellite-captured data | `Spring Boot` `Vue` `PostgreSQL` |
-| [Porygon - Webscraper](https://github.com/PorygonAPI/Porygon2?tab=readme-ov-file#pushpin-projeto-api) | Tool for scraping and storing strategic news and related data | `Java` `Spring Boot` `Jsoup` |
+| [Porygon - Geoprocessing](https://github.com/PorygonAPI/Porygon3) | Spatial data processing tool for satellite-captured images | `Spring Boot` `Vue` `PostgreSQL` |
+| [Porygon - Webscraper](https://github.com/PorygonAPI/Porygon2?tab=readme-ov-file#pushpin-projeto-api) | Web Scraping tool used for storing strategic news and related data | `Java` `Spring Boot` `Jsoup` |
 
 ## 🛠️ Technologies 
 <p align="center">
