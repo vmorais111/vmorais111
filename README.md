@@ -10,9 +10,9 @@
 
 | Projeto | Descrição | Tecnologias |
 |----------|------------|-------------|
-| [Neo Horizon - Data Analysis](https://github.com/FatecNeoHorizon/API_5S) | Ferramenta para analise de Dados e controle de projetos | `React` `Pandas` `Python` `Docker` |
-| [Porygon 3 - Geo Processamento](https://github.com/PorygonAPI/Porygon3) | Ferramenta de geoprocessamento espacial de dados capturados por satélites | `Springboot` `Vue` `PostgreSQL` |
-| [Porygon 2- Webscraper](https://github.com/PorygonAPI/Porygon2?tab=readme-ov-file#pushpin-projeto-api) | Ferramenta de captura e armazenamento de notícias estratégicas e dados relevantes associados | `Java` `Springboot` `Jsoup`
+| [NeoHorizon - Data Analysis](https://github.com/FatecNeoHorizon/API_5S) | Ferramenta para analise de Dados e controle de projetos | `React` `Pandas` `Python` `Docker` |
+| [Porygon - Geoprocessamento](https://github.com/PorygonAPI/Porygon3) | Ferramenta de geoprocessamento espacial de dados capturados por satélites | `Springboot` `Vue` `PostgreSQL` |
+| [Porygon - Webscraper](https://github.com/PorygonAPI/Porygon2?tab=readme-ov-file#pushpin-projeto-api) | Ferramenta de captura e armazenamento de notícias estratégicas e dados relevantes associados | `Java` `Springboot` `Jsoup`
 
 ## 🛠️ Tecnologias 
 <p align="center">
