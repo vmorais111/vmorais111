@@ -14,7 +14,7 @@
 | [Porygon 3 - Geo Processamento](https://github.com/PorygonAPI/Porygon3) | Ferramenta de geoprocessamento espacial de dados capturados por satélites | `Springboot` `Vue` `PostgreSQL` |
 | [Porygon 2- Webscraper](https://github.com/PorygonAPI/Porygon2?tab=readme-ov-file#pushpin-projeto-api) | Ferramenta de captura e armazenamento de notícias estratégicas e dados relevantes associados | `Java`, `Springboot`, `Jsoup`
 
-## 🛠️ Tecnologias Conhecidas
+## 🛠️ Tecnologias 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,docker,css,html,js,ts,java,python,spring,react,vue,nest,flask,tailwind,sqlite,postgres,mysql&perline=25" />
